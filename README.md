@@ -1,7 +1,7 @@
 # **UniTrucks Documentation Guide**
 
 
-## **Internal Documentation:**
+## **Internal Documentation**
 All internal documentation can be found in the form of comments thatare in the following files:
 
         - main.dart (Path:food_truck_app/lib/main.dart)
@@ -12,9 +12,9 @@ All internal documentation can be found in the form of comments thatare in the f
     * Other files in food_truck_app folder don't have comments because they weren't edited and they come preinstalled on every Flutter project
 
 
-## **Systems Documentation:**
+## **Systems Documentation**
 The systems doucmentation can be found in our wiki in the page titled "Systems Documentation".
 
 
-## **User Manual:**
+## **User Manual**
 The user manual can be found in our wiki in the page titled "User Manual".
