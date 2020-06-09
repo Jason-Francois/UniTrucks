@@ -1,7 +1,7 @@
 // File Name: foodTruckMenus.dart
 // Purpose: Program that contains screens for each food truck that shows the food truck's menu
 // Version Date: Updated as of 6/4/2020
-// Author: Armaan Pahwa and Mohammed Abdel-Moomen
+// Author: Jason Francois
 // Dependencies: google_maps_flutter and flutter_sdk
 
 import 'package:flutter/material.dart';

@@ -1,7 +1,7 @@
 // File Name: mainMenuPage.dart
 // Purpose: Program that shows the a screen listing all of the food trucks that are on the app
 // Version Date: Updated as of 6/4/2020
-// Author: Jason Francois and Mohammed Abdel-Moomen
+// Author: Jason Francois
 // Dependencies: google_maps_flutter,flutter_sdk, cupertino_icons
 
 import 'package:flutter/material.dart';
